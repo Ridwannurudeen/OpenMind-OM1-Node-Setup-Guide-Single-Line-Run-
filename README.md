@@ -42,7 +42,7 @@ openmind node logs
 
 #Useful Commands for the Screen Session
 
-#Reattach to session:
+#Reattach to session: 
 
 screen -r openmind
 
